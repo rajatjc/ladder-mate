@@ -3,6 +3,9 @@
 A chess training game that climbs from the rules to 2000. It ships as one HTML file, with no
 server and no dependencies.
 
+**Live demo: [ladder-mate.onrender.com](https://ladder-mate.onrender.com/)**. Your progress saves
+in your browser.
+
 ## Run it
 
 ```sh
