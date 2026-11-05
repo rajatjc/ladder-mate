@@ -1,0 +1,8 @@
+# Ladder Mate as a Render static site. In the Render dashboard, choose New > Blueprint and
+# pick this repository. Each push to the default branch then redeploys it.
+services:
+  - type: web
+    name: ladder-mate
+    runtime: static
+    buildCommand: node tools/build.mjs
+    staticPublishPath: ./dist

@@ -1,0 +1,58 @@
+[
+ {
+  "id": "milo",
+  "name": "Milo",
+  "nominal": 750,
+  "fit": 1050,
+  "solved": 113,
+  "total": 421
+ },
+ {
+  "id": "joan",
+  "name": "Trader Joan",
+  "nominal": 1050,
+  "fit": 1200,
+  "solved": 139,
+  "total": 421
+ },
+ {
+  "id": "kaz",
+  "name": "Coffeehouse Kaz",
+  "nominal": 1250,
+  "fit": 1450,
+  "solved": 185,
+  "total": 421
+ },
+ {
+  "id": "priya",
+  "name": "Priya the Wall",
+  "nominal": 1450,
+  "fit": 1610,
+  "solved": 214,
+  "total": 421
+ },
+ {
+  "id": "vise",
+  "name": "Dr. Vise",
+  "nominal": 1650,
+  "fit": 1920,
+  "solved": 270,
+  "total": 421
+ },
+ {
+  "id": "sasha",
+  "name": "Sasha Blitz",
+  "nominal": 1850,
+  "fit": 2100,
+  "solved": 301,
+  "total": 421
+ },
+ {
+  "id": "arbiter",
+  "name": "The Arbiter",
+  "nominal": 2050,
+  "fit": 2350,
+  "solved": 344,
+  "total": 421
+ }
+]

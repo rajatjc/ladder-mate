@@ -1,0 +1,13 @@
+{
+  "name": "ladder-mate",
+  "version": "1.0.0",
+  "description": "A chess training game that climbs from the rules to 2000.",
+  "private": true,
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "test": "node test/engine.test.mjs && node test/content.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
